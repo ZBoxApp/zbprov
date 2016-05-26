@@ -1,0 +1,26 @@
+{
+  "name": "zbprov-js",
+  "version": "0.1.0",
+  "description": "A Zimbra zmprov clone written in node, that runs everywhere",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZBoxApp/zbprov.git"
+  },
+  "keywords": [
+    "zimbra",
+    "zmprov"
+  ],
+  "author": "Patricio Bruna <pbruna@itlinux.cl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZBoxApp/zbprov/issues"
+  },
+  "homepage": "https://github.com/ZBoxApp/zbprov#readme",
+  "dependencies": {
+    "zimbra-admin-api-js": "^0.2.1"
+  }
+}
