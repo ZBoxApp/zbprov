@@ -16,11 +16,16 @@
   ],
   "author": "Patricio Bruna <pbruna@itlinux.cl>",
   "license": "MIT",
+  "bin": {
+    "zbprov": "./lib/index.js"
+  },
   "bugs": {
     "url": "https://github.com/ZBoxApp/zbprov/issues"
   },
   "homepage": "https://github.com/ZBoxApp/zbprov#readme",
   "dependencies": {
+    "commander": "^2.9.0",
+    "json-file": "^0.1.0",
     "zimbra-admin-api-js": "^0.2.1"
   }
 }
