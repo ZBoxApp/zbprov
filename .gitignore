@@ -18,6 +18,9 @@ Icon
 # Thumbnails
 ._*
 
+# file Acceso.json 
+/Users/DavidGatica/www/zbprov/accounts/zbprov/lib/Acceso.json
+
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
