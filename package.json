@@ -27,6 +27,7 @@
     "commander": "^2.9.0",
     "fs": "0.0.2",
     "json-file": "^0.1.0",
+    "object.entries": "^1.0.3",
     "prompt": "^1.0.0",
     "zimbra-admin-api-js": "^0.2.1"
   }
