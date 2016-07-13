@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ZBoxApp/zbprov#readme",
   "dependencies": {
+    "bytes": "^2.4.0",
     "commander": "^2.9.0",
     "fs": "0.0.2",
     "json-file": "^0.1.0",
